@@ -1,0 +1,12 @@
+POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
+      23               T               T               A
+      36               S               P               P
+      64               K               K               R
+     127               D               D               E
+     134               T               T               N
+     196               S               S               T
+     214               G               S               G
+     242               G               S               G
+     266               A               Q               Q
+     299               H               H               Q
+     389               Q               Q               P

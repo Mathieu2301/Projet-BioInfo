@@ -48,7 +48,6 @@ POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
      114               K               K               T
      115               T               T               S
      128               V               V               I
-POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
      133               E               E               N
      138               N               N               Y
      141               F               F               Y
@@ -98,7 +97,6 @@ POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
      256               S               S               N
      257               S               S               N
      261               A               A               V
-POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
      262               G               G               F
      263               A               A               S
      272               Q               Q               A

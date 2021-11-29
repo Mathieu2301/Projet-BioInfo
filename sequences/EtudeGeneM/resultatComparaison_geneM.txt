@@ -1,0 +1,5 @@
+POSITION           HOMME   CHAUVE-SOURIS        PANGOLIN
+       1               A               A               S
+       2               D               -               G
+       3               S               D               D
+      17               E               E               D
