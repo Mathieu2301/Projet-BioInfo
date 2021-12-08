@@ -5,6 +5,8 @@ Le projet s'organise en un seul fichier `2.ipynb` dont le nom correspond au num�
 
 ## Nécessités
 
+Version de Python: 3.9
+
 Il est nécessaire d'installer BioPython:
 ```pip install biopython```
 et [MAFFT](https://mafft.cbrc.jp/alignment/software/) si vous n'êtes **PAS** sur Windows. 
